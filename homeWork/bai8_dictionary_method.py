@@ -18,10 +18,8 @@ print(b)
 
 _dict = {'1': "one", 2: "two"}
 
-# c = _dict.get('1', default = None)  # Khong duoc
-# print(c)
-
+_dict.get(3, 'three')
+print(_dict)
 
 # print(_dict.has_key(2))               # Khong duoc
 
-print(_dict.item())

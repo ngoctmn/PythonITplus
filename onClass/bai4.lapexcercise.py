@@ -9,6 +9,18 @@
 #         print(i)
 
 
+# So Amstrong
+# # for i in range (100, 1000):
+# a = i //100
+# b = (1-a*100)//10
+# c = i-a*100 -b*10
+# if i ==a**3+b**3+c**3:
+#     print(i)
+# else:
+#     pass
+#
+
+
 # Rut tien ngan hang
 T = int(input('Nhap so tien '))
 
@@ -22,31 +34,6 @@ for i in listMoney:
     T = T % i
 
 print('Tong so to tien la', tongSoTien)
-
-# So Amstrong
-# # for i in range (100, 1000):
-# a = i //100
-# b = (1-a*100)//10
-# c = i-a*100 -b*10
-# if i ==a**3+b**3+c**3:
-#     print(i)
-# else:
-#     pass
-#
-
-# Bai 2
-T = int(input('Nhap'))
-
-
-
-
-
-
-
-
-
-
-
 
 # # Bai 3
 # l = [int(s) for s in input ('Nhap: ').split(',')]
