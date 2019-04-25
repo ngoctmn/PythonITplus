@@ -1,0 +1,1 @@
+1. {'masv': 'Masv03', 'ten': 'Minh', 'diem': 9.6}2. {'masv': 'Masv01', 'ten': 'An', 'diem': 8.1}3. {'masv': 'Masv02', 'ten': 'Binh', 'diem': 7.3}

@@ -1,0 +1,1 @@
+{'hight': 10, 'weigh': 20, 'area': 200, 'perimeter': 60}
