@@ -12,7 +12,9 @@ class Child(Parent2, Parent1):
 
     def info(self):
         Parent1.info(self)
+fdsfsdf
 
 
 obj = Child()
 obj.info()
+dfsjhdjshhfjsd
